@@ -72,7 +72,6 @@ You can now edit/add code without touching the master.
 After you are done you need to commit the changes from your branch just like you are used to,  
 `git add [file name] `  
 
-
 `git commit -m "added new features to the branch"`
 
 
