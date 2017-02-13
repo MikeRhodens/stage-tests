@@ -1,2 +1,3 @@
 hier komt heel wat js te staan
-informatie hier toch?
+edit some files
+now  it is done :)
